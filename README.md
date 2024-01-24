@@ -1,15 +1,41 @@
 # Hi, I'm Silina Valeria! 👋
 
-## About Me
-👩‍💻 I'm a passionate Java developer with a focus on creating efficient and impactful software solutions. 
-👩‍💻 Я разработчик Java, специализирующийся на создании эффективных и действенных программных решений.
+## About Me <a href="https://www.linkedin.com/in/valkerik"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+👩‍💻 I'm a passionate Java developer with a focus on creating efficient and impactful software solutions.
 
-🌱 Currently, I'm delving deeper into the world of microservices, exploring new technologies and methodologies to enhance my projects. В настоящее время я глубже погружаюсь в мир микросервисов, изучаю новые технологии и методологии для улучшения своих проектов.
+Я разработчик Java, специализирующийся на создании эффективных и действенных программных решений.
+
+🌱 Currently, I'm delving deeper into the world of microservices, exploring new technologies and methodologies to enhance my projects. 
+
+В настоящее время я глубже погружаюсь в мир микросервисов, изучаю новые технологии и методологии для улучшения своих проектов.
 
 🤖 I've been working on several projects, including a Telegram bot using GPT-3.5-turbo and a personal finance management application. Check them out below!
+
 Я работала над несколькими проектами, включая бот Telegram, использующий GPT-3.5-turbo, и приложение для управления личными финансами. Проверьте их ниже!
 
-🏡 Working from home, I'm constantly exploring new ways to improve remote collaboration and project management. Работая дома, я постоянно изучаю новые способы улучшения удаленного сотрудничества и управления проектами.
+🏡 Working from home, I'm constantly exploring new ways to improve remote collaboration and project management. 
+
+Работая дома, я постоянно изучаю новые способы улучшения удаленного сотрудничества и управления проектами.
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
+</p>
+
+---
 
 ## My Work
 - **Biblioteca_CRUD_differently**: An application library utilizing JDBCTemplate, Hibernate, and Spring Data JPA.
@@ -19,10 +45,6 @@
 - **TelegramGPTBot**: A chatbot leveraging the power of GPT-3.5-turbo.
 - **Finance**: A "Home Accounting" project using JavaEE, EJB, JSF, and GlassFish5.
 
-## Connect with Me
-- 📫 How to reach me: [Your Contact Information]
-- 👀 Looking to collaborate on Java projects, especially those focused on microservices and AI integration.
-- 🌐 Visit my [LinkedIn Profile](Your LinkedIn URL) for more professional details.
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valkerik&show_icons=true)
