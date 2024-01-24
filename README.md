@@ -1,7 +1,8 @@
 # Hi, I'm Silina Valeria! 👋
 
 ## About Me
-👩‍💻 I'm a passionate Java developer with a focus on creating efficient and impactful software solutions. Я разработчик Java, специализирующийся на создании эффективных и действенных программных решений.
+👩‍💻 I'm a passionate Java developer with a focus on creating efficient and impactful software solutions. 
+👩‍💻 Я разработчик Java, специализирующийся на создании эффективных и действенных программных решений.
 
 🌱 Currently, I'm delving deeper into the world of microservices, exploring new technologies and methodologies to enhance my projects. В настоящее время я глубже погружаюсь в мир микросервисов, изучаю новые технологии и методологии для улучшения своих проектов.
 
