@@ -45,8 +45,6 @@
 - **TelegramGPTBot**: A chatbot leveraging the power of GPT-3.5-turbo.
 - **Finance**: A "Home Accounting" project using JavaEE, EJB, JSF, and GlassFish5.
 
-
-
 ---
 
 ### 🔥 &nbsp; My Stats :
