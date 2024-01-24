@@ -1,4 +1,4 @@
-# Hi, I'm Silina Valeria! 👋
+# Hi, I'm Silina Valeria! 👋    ![Profile Views](https://komarev.com/ghpvc/?username=valkerik)
 
 ## About Me <a href="https://www.linkedin.com/in/valkerik"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 👩‍💻 I'm a passionate Java developer with a focus on creating efficient and impactful software solutions.
@@ -47,11 +47,19 @@
 
 ---
 
+
+
+---
+
 ### 🔥 &nbsp; My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valkerik&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valkerik&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valkerik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+![Valeria's Contribution Graph](https://ghchart.rshah.org/valkerik)
 
 ---
 
