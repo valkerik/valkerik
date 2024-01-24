@@ -46,8 +46,14 @@
 - **Finance**: A "Home Accounting" project using JavaEE, EJB, JSF, and GlassFish5.
 
 
-## My GitHub Stats
+
+---
+
+### 🔥 &nbsp; My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valkerik&show_icons=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valkerik&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valkerik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
