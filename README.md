@@ -3,19 +3,11 @@
 ## About Me <a href="https://www.linkedin.com/in/valkerik"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 👩‍💻 I'm a passionate Java developer with a focus on creating efficient and impactful software solutions.
 
-Я разработчик Java, специализирующийся на создании эффективных и действенных программных решений.
-
 🌱 Currently, I'm delving deeper into the world of microservices, exploring new technologies and methodologies to enhance my projects. 
-
-В настоящее время я глубже погружаюсь в мир микросервисов, изучаю новые технологии и методологии для улучшения своих проектов.
 
 🤖 I've been working on several projects, including a Telegram bot using GPT-3.5-turbo and a personal finance management application. Check them out below!
 
-Я работала над несколькими проектами, включая бот Telegram, использующий GPT-3.5-turbo, и приложение для управления личными финансами. Проверьте их ниже!
-
 🏡 Working from home, I'm constantly exploring new ways to improve remote collaboration and project management. 
-
-Работая дома, я постоянно изучаю новые способы улучшения удаленного сотрудничества и управления проектами.
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -47,19 +39,11 @@
 
 ---
 
-
-
----
-
 ### 🔥 &nbsp; My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valkerik&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=valkerik&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valkerik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-![Valeria's Contribution Graph](https://ghchart.rshah.org/valkerik)
 
 ---
 
