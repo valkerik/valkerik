@@ -36,6 +36,7 @@
 - **ParserVacancy**: A tool for collecting job vacancies from various websites.
 - **TelegramGPTBot**: A chatbot leveraging the power of GPT-3.5-turbo.
 - **Finance**: A "Home Accounting" project using JavaEE, EJB, JSF, and GlassFish5.
+- **My_GPT_Bot**(private): A chatbot leveraging the power of GPT-3.5-turbo.Using Java17, SpringBoot 3, Spring Data JPA, JSON, PostgreSQL, MicroServiceApp, etc
 
 ---
 
